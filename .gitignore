@@ -1,0 +1,44 @@
+# Dependencias
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Variables de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de construcción/compilación
+/dist
+/build
+/out
+/.next
+
+# Directorios de cobertura
+/coverage
+
+# Archivos de caché
+.npm
+.eslintcache
+.cache
+
+# Archivos de logs
+logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace

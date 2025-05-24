@@ -1,0 +1,25 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "Tarea de la UMG, para progra 3",
+  "homepage": "https://github.com/Eswin-Poroj/api-nodejs-umg#readme",
+  "bugs": {
+    "url": "https://github.com/Eswin-Poroj/api-nodejs-umg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Eswin-Poroj/api-nodejs-umg.git"
+  },
+  "license": "MIT",
+  "author": "Eswin Poroj (eswinstuardporojcastro@gmail.com)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
